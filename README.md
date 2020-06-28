@@ -1,0 +1,1 @@
+# ionic5-product-card-component
